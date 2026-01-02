@@ -12,16 +12,16 @@
 
 :root {
     /* Colors */
-    --color-bg-primary: #1a1a1a;
-    --color-bg-secondary: #2a2a2a;
-    --color-bg-tertiary: #353535;
-    --color-text-primary: #e0e0e0;
-    --color-text-secondary: #a0a0a0;
-    --color-text-muted: #707070;
-    --color-accent: #00d26a;
-    --color-accent-hover: #00b358;
-    --color-accent-light: rgba(0, 210, 106, 0.1);
-    --color-border: #404040;
+    --color-bg-primary: #1b3c53;
+    --color-bg-secondary: #234c6a;
+    --color-bg-tertiary: #456882;
+    --color-text-primary: #e3e3e3;
+    --color-text-secondary: #c5d0d8;
+    --color-text-muted: #9aaab8;
+    --color-accent: #6a9cc4;
+    --color-accent-hover: #85b0d1;
+    --color-accent-light: rgba(106, 156, 196, 0.15);
+    --color-border: #3a5a72;
     --color-shadow: rgba(0, 0, 0, 0.3);
     
     /* Spacing */
